@@ -118,11 +118,11 @@ plugins:
 
 exclude:
   [
+    "vendor",
     "_assets",
     "Gemfile",
     "Gemfile.lock",
     "gulpfile.js",
     "node_modules",
     "package.json",
-    "[vendor]",
   ]
