@@ -1,0 +1,64 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Clarosol Solutions
+  title-url: https://www.clarosol.es/
+  date: Nov 2017 - Oct 2022
+  subtitle: Técnico logístico
+  tags:
+    - tag: WinServer
+    - tag: Excell
+    - tag: SQL
+    - tag: SAP
+  timeline-side: right
+
+- title: GSD / UNED
+  title-url: https://www.gsdeducacion.com/
+  date: 2017 - 2020
+  subtitle: Técnico superior en administración de sistemas informáticos en red
+  timeline-side: left
+  
+- title: Idatis
+  title-url: https://www.idatis.org/
+  date: Mar 2020 - Jun 2020
+  subtitle: Practicante IT
+  tags:
+    - tag: Linux
+    - tag: Docker
+    - tag: Grafana
+    - tag: DApps
+  timeline-side: right
+
+- title: INESEM
+  title-url: https://www.inesem.es/
+  date: 2020 -2021
+  subtitle: Máster en Ciberseguridad
+  timeline-side: left
+  
+- title: The Security Sentinel
+  title-url: https://thesecuritysentinel.es/
+  date: 2021
+  subtitle: CPSR - Seguridad en Redes
+  timeline-side: left
+ 
+- title: Hack by Security
+  title-url: https://www.hackbysecurity.com/
+  date: 2022
+  subtitle: CSIO - Seguridad Ofensiva
+  timeline-side: left 

@@ -1,0 +1,33 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Metasploit
+  weight: 5
+
+- name: Nessus
+  weight: 3
+
+- name: Nagios
+  weight: 4
+
+- name: OWASP
+  weight: 1
+
+- name: Acunetix
+  weight: 2
+
+- name: SolarWinds
+  weight: 3
+
+- name: pfSense
+  weight: 4
+
+- name: Odoo
+  weight: 2
+
+- name: ISO 27001
+  weight: 1

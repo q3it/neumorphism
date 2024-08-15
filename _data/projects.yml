@@ -1,0 +1,34 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Plataforma Blockchain
+  descr: "La propuesta de valor de este proyecto tecnológico y social es, ofrecer una solución innovadora para dar respuestas a las necesidades de los voluntarios y los retos del tercer sector a través de una plataforma tecnológica basada en DLT/Blockchain, contribuyendo directamente a los objetivos de desarrollo sostenible."
+  demo: https://sites.google.com/view/projc1/plataforma-blockchain
+  tags:
+    - tag: Red B Alastria
+    - tag: Hyperledger Besu
+    - tag: Solidity
+    - tag: Metamask
+
+- name: Servidor DNS
+  descr: "Una parte importante de la administración de servidores debe incluir un método sencillo para buscar las interfaces de red y direcciones IP por nombres de dominio (DNS). El empleo de nombres de dominio, en vez de direcciones IP, para especificar las direcciones de red puede facilitar la configuración de servicios y aplicaciones, y aumenta la capacidad de mantenimiento de los archivos de configuración."
+  demo: https://mega.nz/file/icAFHBLQ#4VvLgk_zzAdNYI-sFKAvO2siSNRbCvwL5Jnz3lHpg_s
+  tags:
+    - tag: Linux
+    - tag: BIND9
+    - tag: WMWare
+
+#- name: project Z
+#  descr: "You can also set a project without demo link and no tags"

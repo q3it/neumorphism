@@ -1,0 +1,36 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Docker
+  weight: 5
+
+- name: GNS3
+  weight: 3
+
+- name: Cisco
+  weight: 3
+
+- name: Shell Linux
+  weight: 1
+
+- name: PostgreSQL
+  weight: 1
+
+- name: Snort
+  weight: 2
+
+- name: MySQL Workbench
+  weight: 2
+
+- name: VMWare
+  weight: 4
+
+- name: VS Code
+  weight: 3
+
+- name: Active Directory
+  weight: 4
