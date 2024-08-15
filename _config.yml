@@ -116,6 +116,8 @@ google-analytics:
 plugins:
   - "jekyll-github-metadata"
 
+exclude: [vendor]
+
 exclude:
   [
     "_assets",
@@ -124,5 +126,4 @@ exclude:
     "gulpfile.js",
     "node_modules",
     "package.json",
-    "[vendor]",
   ]
