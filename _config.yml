@@ -116,10 +116,9 @@ google-analytics:
 plugins:
   - "jekyll-github-metadata"
 
-exclude: [vendor]
-
 exclude:
   [
+    "vendor",
     "_assets",
     "Gemfile",
     "Gemfile.lock",
