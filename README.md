@@ -5,7 +5,7 @@
 * Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-neumorphism/)
 * Featured on [jekyllthemes](http://jekyllthemes.org/themes/neumorphism/)
 
-[Report Bug](https://github.com/q3it/neumorphism/issues) [![License](https://badgen.net/github/license/longpdo/neumorphism)](LICENSE)
+[![License](https://badgen.net/github/license/longpdo/neumorphism)](LICENSE)  [Report Bug](https://github.com/q3it/neumorphism/issues) 
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents <!-- omit in toc -->
