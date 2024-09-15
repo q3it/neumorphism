@@ -1,6 +1,6 @@
 # Personal Website <!-- omit in toc -->
 
-> Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.
+> Neumorphism designed Jekyll theme for personal websites.
 
 * Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-neumorphism/)
 * Featured on [jekyllthemes](http://jekyllthemes.org/themes/neumorphism/)
