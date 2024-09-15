@@ -5,7 +5,7 @@
 * Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-neumorphism/)
 * Featured on [jekyllthemes](http://jekyllthemes.org/themes/neumorphism/)
 
-[![Open Issues](https://badgen.net/github/open-issues/longpdo/neumorphism)](https://github.com/longpdo/neumorphism/issues)
+[![Open Issues](https://github.com/q3it/neumorphism/issues)](https://github.com/q3it/neumorphism/issues)
 [![License](https://badgen.net/github/license/longpdo/neumorphism)](LICENSE)
 
 [Report Bug](https://github.com/longpdo/neumorphism/issues) · [Request Feature](https://github.com/longpdo/neumorphism/issues)
