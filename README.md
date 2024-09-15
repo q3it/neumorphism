@@ -3,7 +3,6 @@
 > Neumorphism designed Jekyll theme for personal websites.
 
 * Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-neumorphism/)
-* Featured on [jekyllthemes](http://jekyllthemes.org/themes/neumorphism/)
 
 [![Open Issues](https://badgen.net/github/open-issues/longpdo/longpdo.github.io)](https://github.com/q3it/neumorphism/issues)
 [![License](https://badgen.net/github/license/longpdo/neumorphism)](LICENSE) 
