@@ -158,9 +158,6 @@ For optimal results, you should make sure, that every Github project, you want i
 * Homepage link, if there is a live version of it
 * Topics
 
-Example:
-![Github Repository Information Example][github-repo-info]
-
 #### _data/*.yml
 
 Edit files inside `_data` to add information to the portfolio. For documentation, refer to [docs/data.md](https://github.com/longpdo/neumorphism/blob/master/docs/data.md).
