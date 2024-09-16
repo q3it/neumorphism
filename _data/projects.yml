@@ -24,8 +24,8 @@
 
 - name: Servidor DNS
   descr: "Una parte importante de la administración de servidores debe incluir un método sencillo para buscar las interfaces de red y direcciones IP por nombres de dominio (DNS). El empleo de nombres de dominio, en vez de direcciones IP, para especificar las direcciones de red puede facilitar la configuración de servicios y aplicaciones, y aumenta la capacidad de mantenimiento de los archivos de configuración."
-  github: https://github.com/q3it/Bind9-Debian
   demo: https://mega.nz/file/icAFHBLQ#4VvLgk_zzAdNYI-sFKAvO2siSNRbCvwL5Jnz3lHpg_s
+  github: https://github.com/q3it/Bind9-Debian
   tags:
     - tag: Linux
     - tag: BIND9
