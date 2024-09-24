@@ -14,7 +14,7 @@ baseurl: ""
 username: Diego
 # typing_text: This will be typed before 'Desplázate hacia abajo para ver más'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: SysAdmin
+typing_text: awk -F ':' 'NR >= 33 && NR <= 33 {print $1}' passwd ...
 # email: Your E-Mail address for the email button.
 email: diegofb.castro@gmail.com
 # For every social button you want to display, set your username or userid
