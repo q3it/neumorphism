@@ -22,13 +22,14 @@
     - tag: Solidity
     - tag: Metamask
 
-- name: Servidor DNS
+- name: SOHO
   descr: "Una parte importante de la administración de servidores debe incluir un método sencillo para buscar las interfaces de red y direcciones IP por nombres de dominio (DNS). El empleo de nombres de dominio, en vez de direcciones IP, para especificar las direcciones de red puede facilitar la configuración de servicios y aplicaciones, y aumenta la capacidad de mantenimiento de los archivos de configuración."
   demo: https://github.com/q3it/Bind9-Debian 
   tags:
+    - tag: VirtualBox
+    - tag: GNS3
+    - tag: pfSense
     - tag: Linux
-    - tag: BIND9
-    - tag: WMWare
 
 #- name: project Z
 #  descr: "You can also set a project without demo link and no tags"
