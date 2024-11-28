@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Sobre mí
 # about_me_description: This will be displayed under the title.
-about_me_description: Soy un gran aprendiz, siempre me gusta explorar nuevos horizontes. Deseo enriquecer mis conocimientos sobre los matices de la informática y aprovechar esta sabiduría para avanzar en mi carrera profesional. Tengo muchas ganas de trabajar con las últimas tecnologías y también de aprovechar las oportunidades que me ofrece este campo. Soy una persona muy apasionada y dedicada. Tengo buenos dotes de comunicación y grandes cualidades de liderazgo. Soy rápido aprendiendo cosas nuevas y tengo capacidad de pensamiento analítico. <a class="highlight-link" href="https://q3it.github.io/card/" target="_blank" rel="noreferrer"> + </a>
+about_me_description: Soy un gran aprendiz, siempre me gusta explorar nuevos horizontes. Deseo enriquecer mis conocimientos sobre los matices de la informática y aprovechar esta sabiduría para avanzar en mi carrera profesional. Tengo muchas ganas de trabajar con las últimas tecnologías y también de aprovechar las oportunidades que me ofrecen estas. Soy una persona muy apasionada y dedicada. Tengo buenos dotes de comunicación y grandes cualidades de liderazgo. Soy rápido aprendiendo cosas nuevas y tengo capacidad de pensamiento analítico. <a class="highlight-link" href="https://q3it.github.io/card/" target="_blank" rel="noreferrer"> + </a>
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
