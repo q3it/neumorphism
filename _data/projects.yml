@@ -23,7 +23,7 @@
     - tag: Metamask
 
 - name: SOHO
-  descr: "Pequeña oficina/oficina en casa (SOHO) es un concepto cada vez más común, ya que muchas personas trabajan ahora en lugares remotos o incluso desde su casa. Esto plantea una serie de requisitos, tanto desde el punto de vista tecnológico como empresarial, para satisfacer las necesidades de estos usuarios."
+  descr: "Pequeña oficina/oficina en casa (SOHO) es un concepto cada vez más común, ya que muchas personas trabajan ahora en lugares remotos o incluso desde su casa. Este proyecto se desarrolla con el fin de satisfacer de manera sencilla las necesidades de estos usuarios."
   demo: https://pjct2.thequbit.net/inicio 
   tags:
     - tag: VirtualBox
