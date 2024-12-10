@@ -78,7 +78,7 @@ os_projects_title: Proyectos Open Source
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Conectamos!
+contact_title: ¡Conectamos!
 # contact_description: This will be displayed under the title.
 # contact_description: También puedes encontarme en <a class="highlight-link" href="https://www.thequbit.net/" target="_blank" rel="noreferrer"> Blogger </a>.
 
