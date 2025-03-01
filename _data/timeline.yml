@@ -20,7 +20,7 @@
 - title: Clarosol Solutions
   title-url: https://www.clarosol.es/
   date: Nov 2017 - Oct 2022
-  subtitle: Técnico logístico
+  subtitle: Operario logístico
   tags:
     - tag: WinServer
     - tag: Excell
@@ -62,3 +62,13 @@
   date: 2022
   subtitle: CSIO - Seguridad Ofensiva
   timeline-side: left 
+
+- title: ATE Outsourcing
+  title-url: https://www.ateoutsourcing.com/
+  date: Nov 2022 - Actual
+  subtitle: Operario logístico
+  tags:
+    - tag: WinServer
+    - tag: Office
+    - tag: IBM-Software
+  timeline-side: right
