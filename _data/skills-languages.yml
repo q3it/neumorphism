@@ -8,7 +8,7 @@
 - name: Python
   weight: 4
 
-- name: Bhas
+- name: Bash
   weight: 2
 
 - name: HTML5
