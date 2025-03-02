@@ -5,13 +5,13 @@
 # - name: Framework
 #   weight: 5
 
-- name: Metasploit
+- name: Nagios
   weight: 5
 
 - name: Nessus
   weight: 3
 
-- name: Nagios
+- name: Metasploit
   weight: 4
 
 - name: OWASP
@@ -20,14 +20,5 @@
 - name: Acunetix
   weight: 2
 
-- name: SolarWinds
-  weight: 3
-
 - name: pfSense
   weight: 4
-
-- name: Odoo
-  weight: 2
-
-- name: ISO 27001
-  weight: 1
