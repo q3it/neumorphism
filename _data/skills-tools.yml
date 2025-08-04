@@ -17,9 +17,6 @@
 - name: Shell Linux
   weight: 1
 
-#- name: PostgreSQL
-#  weight: 1
-
 - name: Snort
   weight: 2
 
