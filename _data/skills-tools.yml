@@ -9,25 +9,25 @@
   weight: 5
 
 - name: GNS3
-  weight: 3
+  weight: 4
 
 - name: Cisco
   weight: 3
 
 - name: Shell Linux
-  weight: 1
+  weight: 2
 
 - name: Snort
   weight: 2
 
 - name: MySQL Workbench
-  weight: 2
+  weight: 1
 
 - name: VMWare
   weight: 4
 
 - name: VS Code
-  weight: 3
+  weight: 2
 
 - name: Active Directory
-  weight: 4
+  weight: 3
