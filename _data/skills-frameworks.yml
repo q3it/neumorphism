@@ -11,14 +11,8 @@
 - name: Nessus
   weight: 2
 
-#- name: Metasploit
-#  weight: 3
-
 - name: OWASP
   weight: 1
-
-#- name: Acunetix
-#  weight: 2
 
 - name: pfSense
   weight: 4
