@@ -66,3 +66,11 @@
     - tag: Office
     - tag: IBM-Software
   timeline-side: right
+
+- title: Linux Professional Institute
+  title-url: https://www.lpi.org/es/
+  date: 2025
+  subtitle: LPI - Linux Essentials
+  tags:
+    - tag: lpi.org/v/LPI000667402/t3rdpzvtss
+  timeline-side: left
