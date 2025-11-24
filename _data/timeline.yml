@@ -68,10 +68,9 @@
   timeline-side: right
 
 - title: Linux Professional Institute
-  title-url: https://www.lpi.org/es/
+  title-url: https://lpi.org/v/LPI000667402/t3rdpzvtss
   date: 2025
   subtitle: LPI - Linux Essentials
-  url: https://lpi.org/v/LPI000667402/t3rdpzvtss
   tags:
-    - tag: 'https://lpi.org/v/LPI000667402/t3rdpzvtss'
+    - tag: LPI000667402
   timeline-side: left
